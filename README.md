@@ -10,6 +10,8 @@ Due to time constraints, we have encountered an issue where your password is pos
 ## Setup
 You will receive an APK file for your android phone, please install this application on your device and launch it.
 
+It will be required to have an internet connection to participate in the tests
+
 You will be presented with a login/register page, please click register and specify a username and password, **Please don't use a critical password**.
 
 After creating your login, fill out the following form with user data, we need this to generate a set of tags to curate later questions to you.
