@@ -47,7 +47,7 @@ If you choose to keep using the app after 3 days have passed, please make a pred
 ## After you finish our test
 Please fill out the following questions and send your answer to us at: <a href="mailto://cs-24-sw-8-11@student.aau.dk">cs-24-sw-8-11@student.aau.dk</a>
 
-1. Your username
+1. (Optional) Your username
 
 2. How usable was the app? any improvements to the UI?
 
