@@ -9,6 +9,8 @@ Despite the previous notice, please if possible provide as detailed a descriptio
 
 Due to time constraints, we have encountered an issue where your password is possible to find for us at the server through log files. We do not have time to address this issue, so please do not use a very critical personal password for your user on our system.
 
+If you would like to be anonymous, feel free to use a username that we cannot recognize you by. Our main goal is to obtain data, not to link it to the testers afterwards.
+
 ## Setup
 You will receive an APK file for your android phone, please install this application on your device and launch it.
 
@@ -22,6 +24,7 @@ It will be required to have an internet connection to participate in the tests
 You will be presented with a login/register page, please click register and specify a username and password, **Please don't use a critical password**.
 
 After creating your login, fill out the following form with user data, we need this to generate a set of tags to curate later questions to you.
+* DO NOT ABORT THIS PROCESS! - If you do, the user becomes unusable and you will have to make a new user.
 
 When you have finished the registration form, you should be set up with an empty account, ready for the test.
 
