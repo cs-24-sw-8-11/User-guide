@@ -5,6 +5,8 @@ Hi tester, you have been selected to test our stress management app. We want you
 
 The system may be using machine learning to analyze all answers to questions that you give to the system, and everything will be logged such that it is accessible to our group to make our final analysis after the tests with. This means that you have to be aware of whether you want to share personal information with the app, data transfer is encrypted so we can ensure that its only the project group and you that will be aware of what you have answered.
 
+Despite the previous notice, please if possible provide as detailed a description as possible in your responses. It will help our machine learning model understand your answer.
+
 Due to time constraints, we have encountered an issue where your password is possible to find for us at the server through log files. We do not have time to address this issue, so please do not use a very critical personal password for your user on our system.
 
 ## Setup
