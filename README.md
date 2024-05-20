@@ -12,6 +12,11 @@ Due to time constraints, we have encountered an issue where your password is pos
 ## Setup
 You will receive an APK file for your android phone, please install this application on your device and launch it.
 
+To install a third party APK file, follow these steps:
+* Enable unknown applications (usually under Settings > Security in settings)
+* Download the APK file to your device
+* Click on the file in your file browser and click install
+
 It will be required to have an internet connection to participate in the tests
 
 You will be presented with a login/register page, please click register and specify a username and password, **Please don't use a critical password**.
