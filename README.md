@@ -33,10 +33,10 @@ The main functionality of the app consists of 4 pages, the homepage and settings
 * Predictions: This is where your journals will be aggregated and analyzed to present you with a prediction of your future stress. you will see a button to create a prediction, a chart of your historical data and a button to rate your most recent prediction.
 
 ## Usage
-We require at least 3 days of roughly 5 minutes each, where we want you to fill out a journal at least once a day.
+We require around 3 days of roughly 5 minutes each, where we want you to fill out a journal at least once a day.
 * Navigate to the second page of the app, and fill out the questions you will be presented with.
 
-After 3 days have passed, generate a prediction and follow the prompts on screen
+After you have created 3 or more journals, generate a prediction and follow the prompts on screen
 * Navigate to the third page of the app, and press "new prediction", fill out your expected stress level and press continue, after the prediction has been made, click the rate prediction button at the bottom of the predictions page.
 
 If you choose to keep using the app after 3 days have passed, please make a prediction following every new journal. The more you make the more accurate our data becomes for our final analysis.
