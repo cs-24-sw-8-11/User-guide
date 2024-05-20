@@ -44,10 +44,12 @@ If you choose to keep using the app after 3 days have passed, please make a pred
 ## After you finish our test
 Please fill out the following questions and send your answer to us at: <a href="mailto://cs-24-sw-8-11@student.aau.dk">cs-24-sw-8-11@student.aau.dk</a>
 
-1. How usable was the app? any improvements to the UI?
+1. Your username
 
-2. How accurate was the prediction(s)? did you feel the prediction trended in the correct direction?
+2. How usable was the app? any improvements to the UI?
 
-3. How useful was the mitigation strategy that was presented to you after your prediction?
+3. How accurate was the prediction(s)? did you feel the prediction trended in the correct direction?
 
-4. Other feedback?
+4. How useful was the mitigation strategy that was presented to you after your prediction?
+
+5. Other feedback?
